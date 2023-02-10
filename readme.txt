@@ -3,8 +3,13 @@ Git is free software distributed under the GPL.
 git has a mutable index called stage.
 Git tracks changes of file.
 <<<<<<< HEAD
-greating a new branch is quick and simple.
+<<<<<<< HEAD
+greating a new branch is quick.
 =======
 greating a new branch is quick and simple.
 
 >>>>>>> feature1
+=======
+greating a new branch is quick.
+modify again.
+>>>>>>> dev
