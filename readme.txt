@@ -5,3 +5,4 @@ Git tracks changes of file.
 git is sample.
 good
 new line
+bug fix
